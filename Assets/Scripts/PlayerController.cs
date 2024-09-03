@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
    //Speed variables
    //private float speed = 15f; this was to test for auto movement of the car
-   private float turnSpeed = 50f;
+   //private float turnSpeed = 50f;
 
    //Input declarations
    private float horizontalInput;
